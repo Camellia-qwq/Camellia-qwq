@@ -10,7 +10,6 @@
   ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
   ![](https://img.shields.io/badge/-JavaScript-ab7221?style=flat-square&logo=JavaScript&logoColor=fff)
   ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
-  ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
   ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 - 📫 How to reach me<br />
